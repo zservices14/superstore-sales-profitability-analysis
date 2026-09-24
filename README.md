@@ -1,16 +1,16 @@
 # Superstore Sales & Profitability Analysis
-This project analyzes 9,994 retail transaction records from the Superstore dataset using PostgreSQL, Excel, and Tableau.
+This project analyzes 9,994 retail transaction records from the Superstore dataset using SQL, Excel, and Tableau.
 
 The goal was to evaluate sales performance, profitability, discounting, product performance, and regional trends, then present the findings through interactive dashboards.
 
-## SQL was used as the main analysis to:
+## SQL:
 - Create and structure the Superstore table
 - Validate row counts, null values, duplicates, dates, and numeric fields
 - Calculate sales, profit, profit margin, orders, customers, and average order value
 - Analyze performance by year, region, category, sub-category, product, customer, and discount level
 - Use CTEs and window functions for year-over-year growth, regional ranking, and monthly trends
 
-## Excel was used for:
+## Excel:
 - Importing SQL outputs
 - PivotTables
 - KPI validation
