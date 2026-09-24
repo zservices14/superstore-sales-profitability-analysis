@@ -18,20 +18,13 @@ The goal was to evaluate sales performance, profitability, discounting, product 
 - Summary charts and reporting
 
 ## Tableau Product & Profitability Analysis
-This dashboard focuses on:
-- Profitability by sub-category
-- Product sales vs. profitability
-- Profit by region
-- Average profit by discount level
 - Interactive category filtering
-
-## Tableau 2017 Executive Profitability
-This dashboard focuses on:
-- 2017 sales, profit, and quantity KPIs
 - 2016 vs. 2017 trend comparisons
 - Year-over-year percentage changes
 - State-level profit ratio
 - Interactive filters for date, category, region, and profit ratio
+View the interactive Tableau workbook here:
+[Superstore Sales & Profitability Analysis on Tableau Public]([PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE](https://public.tableau.com/app/profile/zander.mccabe/viz/SuperstoreSalesProfitabilityAnalysis_17902806261700/2017ExecutiveProfitabilityOverview?publish=yes))
 
 ## Key Findings
 - Several sub-categories generated negative profit despite meaningful sales volume.
