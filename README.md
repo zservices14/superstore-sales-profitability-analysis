@@ -3,7 +3,7 @@ This project analyzes 9,994 retail transaction records from the Superstore datas
 
 The goal was to evaluate sales performance, profitability, discounting, product performance, and regional trends, then present the findings through interactive dashboards.
 
-## SQL was used as the main analysis layer to:
+## SQL was used as the main analysis to:
 - Create and structure the Superstore table
 - Validate row counts, null values, duplicates, dates, and numeric fields
 - Calculate sales, profit, profit margin, orders, customers, and average order value
@@ -33,9 +33,13 @@ This dashboard focuses on:
 - State-level profit ratio
 - Interactive filters for date, category, region, and profit ratio
 
-- ## Key Findings
+## Key Findings
 - Several sub-categories generated negative profit despite meaningful sales volume.
 - Higher discount levels were generally associated with substantially lower average profit.
 - Regional profitability varied significantly, with some regions contributing much more profit than others.
 - Certain products generated strong sales but weak or negative profitability, showing that revenue alone does not indicate strong performance.
 - Geographic profit ratios varied considerably across states.
+
+## Data Source
+This project uses the Superstore dataset from Kaggle.
+(https://www.kaggle.com/datasets/binib1997/superstore?resource=download)
