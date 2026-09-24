@@ -24,7 +24,7 @@ The goal was to evaluate sales performance, profitability, discounting, product 
 - State-level profit ratio
 - Interactive filters for date, category, region, and profit ratio
 View the interactive Tableau workbook here:
-[Superstore Sales & Profitability Analysis on Tableau Public]([PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE](https://public.tableau.com/app/profile/zander.mccabe/viz/SuperstoreSalesProfitabilityAnalysis_17902806261700/2017ExecutiveProfitabilityOverview?publish=yes))
+[Superstore Sales & Profitability Analysis on Tableau Public](https://public.tableau.com/app/profile/zander.mccabe/viz/SuperstoreSalesProfitabilityAnalysis_17902806261700/2017ExecutiveProfitabilityOverview?publish=yes)
 
 ## Key Findings
 - Several sub-categories generated negative profit despite meaningful sales volume.
