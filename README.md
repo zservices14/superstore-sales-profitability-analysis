@@ -17,7 +17,7 @@ The goal was to evaluate sales performance, profitability, discounting, product 
 - Conditional formatting
 - Summary charts and reporting
 
-## Tableau Product & Profitability Analysis
+## Tableau Product & Profitability Analysis:
 - Interactive category filtering
 - 2016 vs. 2017 trend comparisons
 - Year-over-year percentage changes
